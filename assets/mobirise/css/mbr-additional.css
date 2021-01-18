@@ -715,6 +715,20 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
+.cid-smqCTJvPds {
+  background-image: url("../../../assets/images/logo-pur-191x100.png");
+}
+.cid-smqCTJvPds h1 {
+  color: #616161;
+}
+.cid-smqCTJvPds h2,
+.cid-smqCTJvPds h3,
+.cid-smqCTJvPds p {
+  color: #767676;
+}
+.cid-smqCTJvPds .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-qV7q0MK9tW .navbar {
   padding: .5rem 0;
   background: #333333;
