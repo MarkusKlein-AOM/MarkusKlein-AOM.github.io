@@ -709,6 +709,20 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
+.cid-sGmeAieNcY {
+  background-image: url("../../../assets/images/logo-pur-191x100.png");
+}
+.cid-sGmeAieNcY h1 {
+  color: #616161;
+}
+.cid-sGmeAieNcY h2,
+.cid-sGmeAieNcY h3,
+.cid-sGmeAieNcY p {
+  color: #767676;
+}
+.cid-sGmeAieNcY .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-smqCTJvPds {
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
@@ -1137,6 +1151,20 @@ section.lazy-placeholder:after {
 .cid-re0wKDKXbf .mbr-text,
 .cid-re0wKDKXbf blockquote {
   color: #767676;
+}
+.cid-sGmeBchyRs {
+  background-image: url("../../../assets/images/logo-pur-191x100.png");
+}
+.cid-sGmeBchyRs h1 {
+  color: #616161;
+}
+.cid-sGmeBchyRs h2,
+.cid-sGmeBchyRs h3,
+.cid-sGmeBchyRs p {
+  color: #767676;
+}
+.cid-sGmeBchyRs .mbr-section-subtitle {
+  font-style: italic;
 }
 .cid-qV7BQJ2wiq .navbar {
   padding: .5rem 0;
