@@ -709,6 +709,104 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
+.cid-sIx1AIYgkh {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-sIx1AIYgkh .mbr-overlay {
+  z-index: 1;
+}
+.cid-sIx1AIYgkh .carousel-caption {
+  bottom: 40px;
+}
+.cid-sIx1AIYgkh .carousel-control .icon-next,
+.cid-sIx1AIYgkh .carousel-control .icon-prev {
+  margin-top: -18px;
+  font-size: 40px;
+  line-height: 27px;
+}
+.cid-sIx1AIYgkh .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-sIx1AIYgkh .container .carousel-control {
+    margin-bottom: 0;
+  }
+  .cid-sIx1AIYgkh .content-slider-wrap {
+    width: 100% !important;
+  }
+}
+.cid-sIx1AIYgkh .container .carousel-indicators {
+  margin-bottom: 3px;
+}
+.cid-sIx1AIYgkh .carousel-control {
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  margin-top: -1.5rem;
+  font-size: 35px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.cid-sIx1AIYgkh .carousel-control.carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-sIx1AIYgkh .carousel-control.carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-sIx1AIYgkh .carousel-control .mbr-iconfont {
+  font-size: 1.5rem;
+}
+@media (max-width: 767px) {
+  .cid-sIx1AIYgkh .carousel-control {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-sIx1AIYgkh .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 1.5rem !important;
+}
+.cid-sIx1AIYgkh .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
+}
+.cid-sIx1AIYgkh .carousel-indicators li.active,
+.cid-sIx1AIYgkh .carousel-indicators li:hover {
+  opacity: 0.9;
+}
+.cid-sIx1AIYgkh .carousel-indicators li::after,
+.cid-sIx1AIYgkh .carousel-indicators li::before {
+  content: none;
+}
+.cid-sIx1AIYgkh .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-sIx1AIYgkh .carousel-indicators {
+    display: none !important;
+  }
+}
 .cid-sGmeAieNcY {
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
