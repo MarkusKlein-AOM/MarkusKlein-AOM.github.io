@@ -709,6 +709,23 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
+.cid-re0uMP2zwc {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-re0uMP2zwc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-re0wKDKXbf {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-re0wKDKXbf .mbr-text,
+.cid-re0wKDKXbf blockquote {
+  color: #767676;
+}
 .cid-sGmeAieNcY {
   background-image: url("../../../assets/images/logo-pur-191x100.png");
 }
@@ -1126,14 +1143,6 @@ section.lazy-placeholder:after {
 .cid-qV7q0MK9tW .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-re0uMP2zwc {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-re0uMP2zwc .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-re0vcNa4Wz {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -1141,15 +1150,6 @@ section.lazy-placeholder:after {
 }
 .cid-re0vcNa4Wz .mbr-text,
 .cid-re0vcNa4Wz blockquote {
-  color: #767676;
-}
-.cid-re0wKDKXbf {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-re0wKDKXbf .mbr-text,
-.cid-re0wKDKXbf blockquote {
   color: #767676;
 }
 .cid-qV7BQJ2wiq .navbar {
