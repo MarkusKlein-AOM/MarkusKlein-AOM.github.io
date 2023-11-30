@@ -61,11 +61,17 @@
         "name": "Rubik-Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Rubik-Regular/font.ttf"
+      },
+      {
+        "css": "'Rubik-Regular'",
+        "name": "Rubik-Regular",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Rubik-Regular/font.ttf"
       }
     ],
     "versionFirst": "4.7.7",
     "uniqCompNum": 59,
-    "versionPublish": "5.9.6",
+    "versionPublish": "5.9.8",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "",
